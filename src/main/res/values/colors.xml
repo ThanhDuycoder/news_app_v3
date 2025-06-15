@@ -1,0 +1,11 @@
+<resources>
+    <color name="colorPrimary">#4A90E2</color>
+    <color name="colorPrimaryDark">#2E6DB4</color>
+    <color name="colorAccent">#FF6F61</color>
+    <color name="card_background_light">#FFFFFF</color>
+    <color name="text_color_light">#1A252F</color>
+    <color name="text_color_secondary_light">#666666</color>
+    <color name="icon_color_light">#4A90E2</color>
+    <color name="hint_color">#B0BEC5</color>
+    <color name="custom_icon_color">#4A90E2</color>
+</resources>

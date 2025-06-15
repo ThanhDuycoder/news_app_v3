@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">News Reader</string>
+    <string name="news_detail">News Detail</string>
+    <string name="toggle_theme">Toggle Theme</string>
+    <string name="published">Published: %s</string>
+    <string name="author">Author: %s</string>
+    <string name="error_loading_news">Error: %s</string>
+    <string name="loading">Loading…</string>
+    <string name="vietnam_news">Vietnam News</string>
+    <string name="news_image">News Image</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="enter_date_yyyy_mm_dd">Enter Date (yyyy-MM-dd)</string>
+    <string name="enter_content">Enter Content</string>
+    <string name="enter_title">Enter Title</string>
+</resources>
